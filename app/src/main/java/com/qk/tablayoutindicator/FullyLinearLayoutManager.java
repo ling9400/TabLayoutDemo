@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 
 /**
  * Created by qk on 2016/11/26.
- * 布局管理器
  */
 
 public class FullyLinearLayoutManager extends LinearLayoutManager {
